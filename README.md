@@ -15,3 +15,7 @@ Para abrir a aplicação, execute o comando:
 `ionic serve`
 
 Enjoy!
+
+### Alteração
+- Alteração no resultado do IMC
+- Alteração na cor do cabeçalho e Botão
